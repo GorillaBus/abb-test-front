@@ -10,5 +10,9 @@ This is a "create-react-app". You should be able to run the client with just `np
 
 ## Running the client
 
-With the server application running just do a `npm start` to start the development environment and the app will open in a browser window. Note that you don't need to set up any http server for this to work, it's all handled by the create-react-app environment.
+With the server application running just run:
+
+`npm start`
+
+create-react-app's development environment will start and the app will open in a browser window. Note that you don't need to set up any http server for this to work, it's all handled by the create-react-app environment.
 
