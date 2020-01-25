@@ -4,4 +4,11 @@ As focus was set on the back end this web client is just an elementary app to be
 
 This is a "create-react-app". You should be able to run the client with just `npm start`. All other npm commands/scripts from create-react-app are available if you need them.
 
-Remember to start the server application first.
+## Installation
+
+`npm install`
+
+## Running the client
+
+With the server application running just do a `npm start` to start the development environment and the app will open in a browser window. Note that you don't need to set up any http server for this to work, it's all handled by the create-react-app environment.
+
