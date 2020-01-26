@@ -9,7 +9,7 @@ export default class App extends React.Component {
 	constructor() {
 		super();
 		this.state = {
-			endpoint: "http://127.0.0.1:3000",
+			endpoint: "http://127.0.0.1:3001",
 			token: "080fd43c58fabbb734f7cfccc7047e65",
 			machines: {},
 			controls: [],
